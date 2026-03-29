@@ -50,18 +50,23 @@ The solver ensures that all Sudoku rules are followed and then generates a valid
 ## Screenshots
 
 1) Input start:
+   
    <img width="1164" height="106" alt="image" src="https://github.com/user-attachments/assets/69df20c5-6667-4750-af06-2d380e23ea07" />
 
 2) Invalid row:
+   
    <img width="352" height="79" alt="image" src="https://github.com/user-attachments/assets/de23822d-4293-47b0-a109-0c324e66bf68" />
 
 3) Current sudoku:
+   
    <img width="229" height="280" alt="image" src="https://github.com/user-attachments/assets/3e1a1a37-cdeb-43b3-92e4-2a8e7e912ad9" />
 
 4) Final output:
+   
    <img width="219" height="307" alt="image" src="https://github.com/user-attachments/assets/6e100bbc-5ca0-46a4-a6fa-6b3ea2f13a18" />
 
 5) Solved sudoku:
+    
    <img width="211" height="294" alt="image" src="https://github.com/user-attachments/assets/f1bb3bcc-c4f0-431a-92eb-d33489b48636" />
 
 
