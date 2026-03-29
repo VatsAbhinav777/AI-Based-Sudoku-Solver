@@ -69,8 +69,3 @@ The solver ensures that all Sudoku rules are followed and then generates a valid
     
    <img width="211" height="294" alt="image" src="https://github.com/user-attachments/assets/f1bb3bcc-c4f0-431a-92eb-d33489b48636" />
 
-
-
-## Conclusion
-
-This project demonstrates the use of constraint satisfaction techniques in solving Sudoku. It also includes input validation and error handling to ensure correctness.
